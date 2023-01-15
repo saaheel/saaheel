@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS,**
 
-- 👨‍💻 All of my projects are available at [https://fullstackgeek.in](https://fullstackgeek.in)
+- 👨‍💻 All of my projects are available at [https://sm7.in](https://sm7.in)
 
 - 📝 I regulary write articles on [https://krazypost.com](https://krazypost.com)
 
